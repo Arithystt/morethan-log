@@ -5,10 +5,10 @@ const CONFIG = {
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "ProRes/Master Music Video Collector",
     bio: "ProRes/Masters Music Video Collection",
-    email: "arithystt@gmail.com",
-    linkedin: "n/a",
-    github: "Arithyst",
-    instagram: "N/A",
+    email: "",
+    linkedin: "",
+    github: "",
+    instagram: "",
   },
   projects: [
     {
