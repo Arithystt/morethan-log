@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Arithyst",
+    name: "morethanmin",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "ProRes/Master Music Video Collector",
-    bio: "ProRes/Masters Music Video Collection",
+    bio: "ProRes/Master Music Video Collector",
     email: "",
     linkedin: "",
     github: "",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Arithyst",
-    description: "Welcome to my mv collections!",
+    title: "morethan-log",
+    description: "welcome to morethan-log!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
@@ -27,7 +27,7 @@ const CONFIG = {
   link: "https://arithyst.vercel.app/",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://cdn.discordapp.com/attachments/875561648851681300/1125370450239823912/avatar.png", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ["Blog", "Website", "Notion"],
   },
