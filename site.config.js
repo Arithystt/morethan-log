@@ -12,8 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+
     },
   ],
   // blog setting (required)
@@ -27,7 +26,7 @@ const CONFIG = {
   link: "https://arithyst.vercel.app/",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "/avatar.png", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://cdn.discordapp.com/attachments/875561648851681300/1125370450239823912/avatar.png", // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ["Blog", "Website", "Notion"],
   },
